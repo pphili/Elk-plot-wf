@@ -1,5 +1,5 @@
 # Elk-plot-wf
-Output the Kohn-Sham orbitals from the open source DFT code Elk
+## Output the Kohn-Sham orbitals from the open source DFT code Elk
 
 This version of the code contains subroutines written in order to be able 
 to extract the Kohn-Sham (KS) orbitals of a specific band of interest at a 
